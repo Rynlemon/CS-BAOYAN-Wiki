@@ -29,6 +29,10 @@ export default defineConfig({
 					slug: '关于我们',
 				},
 				{
+					label: 'FAQ',
+					slug: '快问快答',
+				},
+				{
 					label: '贡献指南',
 					items: [
 						{ label: '基本配置与部署', slug: '贡献指南/基本配置' },
