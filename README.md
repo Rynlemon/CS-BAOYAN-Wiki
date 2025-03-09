@@ -1,5 +1,5 @@
 > [!NOTE]
-> 本仓库为原 CS-BAOYAN-2025 仓库，视仓库管理的周期以及功能性的考量，将 CS-BAOYAN-20xx 系列仓库更名为 CS-BAOYAN-Wiki 并且进行长期维护。包括之前 CS-BAOYAN-20xx 系列仓库的全部职能，以及更多的保研相关指南以及信息。
+> 本仓库为原 CS-BAOYAN-2026 仓库，视仓库管理的周期以及功能性的考量，将 CS-BAOYAN-20xx 系列仓库更名为 CS-BAOYAN-Wiki 并且进行长期维护。包括之前 CS-BAOYAN-20xx 系列仓库的全部职能，以及更多的保研相关指南以及信息。
 
 # CS-BAOYAN-Wiki
 
